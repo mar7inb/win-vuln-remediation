@@ -18,3 +18,9 @@ Based on these results I started the remediation process. I ran windows updates,
 
 
 It's interesting to see how much we can minimize a computers attack surface by running latest updates, disabling certain programs, and uninstalling apps. It goes to show how important it is to keep Operating Systems and applications up to date. 
+
+
+One great thing about the Tenable tool is that it even shows you how to solve vulnerabilities that were detected:
+
+
+![image](https://github.com/user-attachments/assets/74934e6b-077c-43ae-a7fb-a24c48658940)
